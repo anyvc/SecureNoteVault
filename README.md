@@ -9,7 +9,7 @@ A simple, secure web app for encrypting and storing notes locally in your browse
 - **Free & Open-Source**: No costs, no servers—pure client-side security.
 
 ## How to Use
-1. Visit the live app: [https://github.com/anyvc/SecureNoteVault](https://github.com/anyvc/SecureNoteVault).
+1. Visit the live app: [https://anyvc.github.io/SecureNoteVault](https://anyvc.github.io/SecureNoteVault).
 2. Enter a note and password.
 3. Click "Encrypt & Save" to secure it.
 4. Use "Decrypt & View" to retrieve it (needs the correct password).
@@ -24,3 +24,4 @@ A simple, secure web app for encrypting and storing notes locally in your browse
 - GitHub Pages for hosting
 
 Built as a beginner cybersecurity project to demonstrate encryption and cloud deployment skills.
+
